@@ -1,0 +1,27 @@
+V component of wind - v
+
+U component of wind - u
+
+Temperature - t
+
+Specific humidity    - q
+
+geopotential         -   z
+
+
+time
+
+
+pressure_level
+
+
+latitude
+longitude
+
+
+
+
+
+
+
+Now seperate dataset into th and non th occurrences
